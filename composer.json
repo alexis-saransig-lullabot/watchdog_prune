@@ -1,0 +1,10 @@
+{
+    "name": "alexis-saransig-lullabot/watchdog_prune",
+    "type": "drupal-module",
+    "description": "This module will allow you to selectively delete watchdog entries based on criteria, like age.",
+    "homepage": "https://github.com/alexis-saransig-lullabot/watchdog_prune",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": "^8.8 || ^9"
+    }
+}
